@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+😄 Hello! It's @michael1ding
+📚 Michael is a third year computer science student at the University of Waterloo
+🌱 Michael is currently getting deeper into software development and always looking to learn
+👨🏻‍💻 Michael is looking for 2023 internships!
+
+
 <!--
 **michael1ding/michael1ding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
