@@ -5,7 +5,7 @@
 - 📚 I'm a third year computer science student at the University of Waterloo
 - 🌱 I'm currently diving deeper into software engineering and always looking to learn
 - 👨🏻‍💻 I'm looking for 2023 internships!
-- 😄 Michael seems like a cool guy, check out his projects or reach out at m28ding@uwaterloo.ca!
+- 😄 Check out my projects below or reach out at m28ding@uwaterloo.ca!
 
 
 <!--
