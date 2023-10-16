@@ -2,9 +2,9 @@
 
 
 - 👋 I'm @michael1ding
-- 📚 I'm a third year computer science student at the University of Waterloo
-- 🌱 I'm currently diving deeper into software engineering and always looking to learn
-- 👨🏻‍💻 I'm looking for 2023 internships!
+- 📚 Third year computer science student at the University of Waterloo. Background in data-focused/high throughput software.
+- 🌱 Currently diving deeper into software engineering (especially interested in OS, infra) and always looking to learn
+- 👨🏻‍💻 Seeking all 2024 internships!
 - 😄 Check out my projects below or reach out at m28ding@uwaterloo.ca!
 
 
